@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+local**
+build**
+dist**
+*.swp
+.DS_Store
