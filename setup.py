@@ -5,7 +5,7 @@ setup(
     version='0.1',
     author='Ilya Tikhonov',
     description='Block tag decorator for Django templates',
-    long_description=open('README.txt').read(),
+    long_description=open('README.rst').read(),
     license='LICENSE.txt',
     keywords='template, tag, django',
     classifiers=[
