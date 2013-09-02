@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='django-simple-block-tag',
-    version='0.1',
+    version='0.1.2',
     author='Ilya Tikhonov',
     description='Block tag decorator for Django templates',
     long_description=open('README.rst').read(),
